@@ -8,8 +8,8 @@
             "scrollbar": "#Ffff00"
         },
         "text": {
-            "primary": "#ffffff",
-            "secondary": "#e6e6e6"
+            "primary": "#e6e6e6",
+            "secondary": "#cdcdcd"
         },
         "button": {
             "category": "#Ffff00",
@@ -20,7 +20,7 @@
             "overlay": "rgba(0,0,0,0.5)",
             "custom-image": "",
             "logoImage": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/Photoroom-20241020_183150.png",
-            "background-anim": "particles"
+            "background-anim": "snow"
         },
         "border": {
             "radius": {
