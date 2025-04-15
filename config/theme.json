@@ -1,23 +1,23 @@
 {
     "theme": {
         "core": {
-            "primary": "#b9b7b7",
-            "secondary": "#A5A5A5",
+            "primary": "#Ffff00",
+            "secondary": "#e6e600",
             "border": "#000000",
             "divider": "#252525",
-            "scrollbar": "#FFFFFF"
+            "scrollbar": "#Ffff00"
         },
         "text": {
-            "primary": "#070707",
-            "secondary": "#4f4f4f"
+            "primary": "#ffffff",
+            "secondary": "#e6e6e6"
         },
         "button": {
-            "category": "#eaeaea",
-            "action": "#eaeaea"
+            "category": "#Ffff00",
+            "action": "#Ffff00"
         },
         "background": {
-            "main": "#eaeaea",
-            "overlay": "rgba(255,255,255,0.5)",
+            "main": "#050505",
+            "overlay": "rgba(0,0,0,0.5)",
             "custom-image": "",
             "logoImage": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/ML_V5/ML_V5_LOGO_V3.png",
             "background-anim": "particles"
@@ -33,7 +33,7 @@
             "shadow": {
                 "small": "0 2px 4px rgba(0, 0, 0, 0.2)",
                 "medium": "inset 0 2px 5px rgba(50, 50, 50, 0.6)",
-                "large": "0 20px 40px -15px rgba(255, 255, 255, 0.6), 0 0 25px rgba(0, 0, 0, 0.3), inset 0 2px 20px rgba(255, 255, 255, 0.07), inset 0 -15px 30px rgba(0, 0, 0, 0.25)"
+                "large": "0 20px 40px -15px rgba(20, 20, 20, 0.6), 0 0 25px rgba(0, 0, 0, 0.3), inset 0 2px 20px rgba(255, 255, 255, 0.07), inset 0 -15px 30px rgba(0, 0, 0, 0.25)"
             },
             "blur": {
                 "small": "4px",
