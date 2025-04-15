@@ -1,121 +1,75 @@
 {
     "loaders": [
         {
-            "id": "Loader 1",
-            "name": "Loader 1",
-            "categoryId": "r6",
-            "imageUrl": "",
-            "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
+            "id": "Progress",
+            "name": "PROGRESS",
+            "categoryId": "bo6",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/PG_1.exe",
             "status": "online",
-            "productUrl": "https://iriscorp.mysellauth.com/product/valorant-external-chair"
+            "imageUrl": "https://raw.githubusercontent.com/avod245/752951673818710049_cloud/main/public.gif"
         },
         {
-            "id": "Loader 2",
-            "name": "Loader 2",
-            "categoryId": "r6",
-            "imageUrl": "",
-            "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
-            "status": "updating",
-            "productUrl": "https://iriscorp.mysellauth.com/product/valorant-external-chair"
+            "id": "V2_EXT_BO6",
+            "name": "V2 EXT BO6",
+            "categoryId": "bo6",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/752951673818710049_cloud/main/V2_EXT_BO6.exe",
+            "status": "online"
         },
         {
-            "id": "Loader 2",
-            "name": "Loader 2",
-            "categoryId": "fp",
-            "imageUrl": "",
-            "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
-            "status": "updating",
-            "productUrl": "https://iriscorp.mysellauth.com/product/valorant-external-chair"
+            "id": "FORTNITE_EXT_PRIVATE",
+            "name": "FORTNITE_EXT_PRIVATE",
+            "categoryId": "fortnite",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/FORTNITE.exe",
+            "status": "online"
         },
         {
-            "id": "Loader 3",
-            "name": "Loader 3",
-            "categoryId": "valorant",
-            "imageUrl": "",
-            "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
-            "status": "updating",
-            "productUrl": "https://iriscorp.mysellauth.com/product/valorant-external-chair"
+            "id": "BOSS EXT UPDATED",
+            "name": "BOSS EXT UPDATED",
+            "categoryId": "bo6",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/752951673818710049_cloud/main/boss_ext_updated.exe",
+            "status": "online"
         },
         {
-            "id": "Loader 4",
-            "name": "Loader 4",
-            "categoryId": "h1z1",
-            "imageUrl": "",
-            "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
-            "status": "updating",
-            "productUrl": "https://iriscorp.mysellauth.com/product/valorant-external-chair"
+            "id": "MARVEL RIVALS EXT",
+            "name": "MARVEL RIVALS EXT",
+            "categoryId": "others",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/752951673818710049_cloud/main/MARVELRIVALS.exe",
+            "status": "online"
         },
         {
-            "id": "Loader 5",
-            "name": "Loader 5",
-            "categoryId": "hll",
-            "imageUrl": "",
-            "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
-            "status": "updating",
-            "productUrl": "https://iriscorp.mysellauth.com/product/valorant-external-chair"
+            "id": "EXODUS SPOOFER CLEANER",
+            "name": "EXODUS SPOOFER CLEANER",
+            "categoryId": "spoofers",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/752951673818710049_cloud/main/Exodus_Spoofer.exe",
+            "status": "online"
         },
         {
-            "id": "Loader 6",
-            "name": "Loader 6",
-            "categoryId": "dl",
-            "imageUrl": "",
-            "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
-            "status": "updating",
-            "productUrl": "https://iriscorp.mysellauth.com/product/valorant-external-chair"
+            "id": "BOSS UNLOCKER",
+            "name": "BOSS UNLOCKER",
+            "categoryId": "bo6",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/752951673818710049_cloud/main/BOSS_UNLOCKER.exe",
+            "status": "online"
         },
         {
-            "id": "Loader 7",
-            "name": "Loader 7",
-            "categoryId": "df",
-            "imageUrl": "",
-            "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
-            "status": "updating",
-            "productUrl": "https://iriscorp.mysellauth.com/product/valorant-external-chair"
+            "id": "RECOIL.IO",
+            "name": "RECOIL.IO",
+            "categoryId": "bo6",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/752951673818710049_cloud/main/Elite_Recoil_Reducer.exe",
+            "status": "online"
         },
         {
-            "id": "Loader 8",
-            "name": "Loader 8",
-            "categoryId": "valorant",
-            "imageUrl": "",
-            "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
-            "status": "updating",
-            "productUrl": "https://iriscorp.mysellauth.com/product/valorant-external-chair"
+            "id": "CAUTION SUPPORT TOOL",
+            "name": "CAUTION SUPPORT TOOL",
+            "categoryId": "others",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/752951673818710049_cloud/main/cautionSupportTool.exe",
+            "status": "online"
         },
         {
-            "id": "Loader 9",
-            "name": "Loader 9",
-            "categoryId": "valorant",
-            "imageUrl": "",
-            "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
-            "status": "updating",
-            "productUrl": "https://iriscorp.mysellauth.com/product/valorant-external-chair"
-        },
-        {
-            "id": "Loader 10",
-            "name": "Loader 10",
-            "categoryId": "valorant",
-            "imageUrl": "",
-            "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
-            "status": "updating",
-            "productUrl": "https://iriscorp.mysellauth.com/product/valorant-external-chair"
-        },
-        {
-            "id": "Loader 2",
-            "name": "Loader 2",
-            "categoryId": "mw2",
-            "imageUrl": "",
-            "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
-            "status": "offline",
-            "productUrl": "https://iriscorp.mysellauth.com/product/valorant-external-chair"
-        },
-        {
-            "id": "Loader 3",
-            "name": "Loader 3",
-            "categoryId": "cs2",
-            "imageUrl": "",
-            "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
-            "status": "updating",
-            "productUrl": "https://iriscorp.mysellauth.com/product/valorant-external-chair"
+            "id": "K1 INTERNAL",
+            "name": "K1 INTERNAL",
+            "categoryId": "bo6",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/752951673818710049_cloud/main/K1INT.exe",
+            "status": "online"
         }
     ]
 }
