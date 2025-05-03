@@ -1,14 +1,6 @@
 {
     "loaders": [
         {
-            "id": "Progress",
-            "name": "PROGRESS",
-            "categoryId": "bo6",
-            "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/PG_1.exe",
-            "status": "online",
-            "imageUrl": ""
-        },
-        {
             "id": "V2_EXT_BO6",
             "name": "V2 EXT BO6",
             "categoryId": "bo6",
