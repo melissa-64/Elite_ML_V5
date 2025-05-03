@@ -1,13 +1,6 @@
 {
     "loaders": [
         {
-            "id": "FORTNITE_EXT_PRIVATE",
-            "name": "FORTNITE_EXT_PRIVATE",
-            "categoryId": "fortnite",
-            "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/FORTNITE.exe",
-            "status": "online"
-        },
-        {
             "id": "BOSS EXT UPDATED",
             "name": "BOSS EXT UPDATED",
             "categoryId": "bo6",
