@@ -1,13 +1,6 @@
 {
     "loaders": [
         {
-            "id": "MARVEL RIVALS EXT",
-            "name": "MARVEL RIVALS EXT",
-            "categoryId": "others",
-            "downloadUrl": "https://raw.githubusercontent.com/avod245/752951673818710049_cloud/main/MARVELRIVALS.exe",
-            "status": "online"
-        },
-        {
             "id": "EXODUS SPOOFER CLEANER",
             "name": "EXODUS SPOOFER CLEANER",
             "categoryId": "spoofers",
