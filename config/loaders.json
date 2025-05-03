@@ -1,11 +1,3 @@
 {
-    "loaders": [
-        {
-            "id": "K1 INTERNAL",
-            "name": "K1 INTERNAL",
-            "categoryId": "bo6",
-            "downloadUrl": "https://raw.githubusercontent.com/avod245/752951673818710049_cloud/main/K1INT.exe",
-            "status": "online"
-        }
-    ]
+    "loaders": []
 }
