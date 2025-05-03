@@ -1,13 +1,6 @@
 {
     "loaders": [
         {
-            "id": "BOSS EXT UPDATED",
-            "name": "BOSS EXT UPDATED",
-            "categoryId": "bo6",
-            "downloadUrl": "https://raw.githubusercontent.com/avod245/752951673818710049_cloud/main/boss_ext_updated.exe",
-            "status": "online"
-        },
-        {
             "id": "MARVEL RIVALS EXT",
             "name": "MARVEL RIVALS EXT",
             "categoryId": "others",
