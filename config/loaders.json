@@ -1,13 +1,6 @@
 {
     "loaders": [
         {
-            "id": "BOSS UNLOCKER",
-            "name": "BOSS UNLOCKER",
-            "categoryId": "bo6",
-            "downloadUrl": "https://raw.githubusercontent.com/avod245/752951673818710049_cloud/main/BOSS_UNLOCKER.exe",
-            "status": "online"
-        },
-        {
             "id": "RECOIL.IO",
             "name": "RECOIL.IO",
             "categoryId": "bo6",
