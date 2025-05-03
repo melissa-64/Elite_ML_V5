@@ -1,13 +1,6 @@
 {
     "loaders": [
         {
-            "id": "CAUTION SUPPORT TOOL",
-            "name": "CAUTION SUPPORT TOOL",
-            "categoryId": "others",
-            "downloadUrl": "https://raw.githubusercontent.com/avod245/752951673818710049_cloud/main/cautionSupportTool.exe",
-            "status": "online"
-        },
-        {
             "id": "K1 INTERNAL",
             "name": "K1 INTERNAL",
             "categoryId": "bo6",
