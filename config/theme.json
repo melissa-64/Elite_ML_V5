@@ -20,7 +20,7 @@
             "overlay": "rgba(0,0,0,0.5)",
             "custom-image": "",
             "logoImage": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/Photoroom-20241020_183150.png",
-            "background-anim": "snow"
+            "background-anim": "particles"
         },
         "border": {
             "radius": {
