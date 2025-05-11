@@ -71,6 +71,15 @@
             "status": "online",
             "imageUrl": "",
             "productUrl": ""
+        },
+        {
+            "id": "redistx64",
+            "name": "redistx64",
+            "categoryId": "others",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/1348125297433772142_cloud/main/vc_redist.x64.exe",
+            "status": "online",
+            "imageUrl": "",
+            "productUrl": ""
         }
     ]
 }
