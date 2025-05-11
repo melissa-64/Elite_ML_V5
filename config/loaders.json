@@ -89,6 +89,15 @@
             "status": "online",
             "imageUrl": "",
             "productUrl": ""
+        },
+        {
+            "id": "directx",
+            "name": "directx",
+            "categoryId": "others",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/1348125297433772142_cloud/main/dxwebsetup.exe",
+            "status": "online",
+            "imageUrl": "",
+            "productUrl": ""
         }
     ]
 }
