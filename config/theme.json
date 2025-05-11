@@ -18,7 +18,7 @@
         "background": {
             "main": "#050505",
             "overlay": "rgba(0,0,0,0.5)",
-            "custom-image": "",
+            "custom-image": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/1000030512.png",
             "logoImage": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/Photoroom-20241020_183150.png",
             "background-anim": "particles"
         },
