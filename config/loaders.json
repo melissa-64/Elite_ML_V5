@@ -89,15 +89,6 @@
             "status": "online",
             "imageUrl": "",
             "productUrl": ""
-        },
-        {
-            "id": "win10fix.bat",
-            "name": "win10fix",
-            "categoryId": "others",
-            "downloadUrl": "https://raw.githubusercontent.com/avod245/1348125297433772142_cloud/main/hv_1.bat",
-            "status": "online",
-            "imageUrl": "",
-            "productUrl": ""
         }
     ]
 }
