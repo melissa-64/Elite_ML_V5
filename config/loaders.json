@@ -98,15 +98,6 @@
             "status": "online",
             "imageUrl": "",
             "productUrl": ""
-        },
-        {
-            "id": "ELITE EXTERNAL",
-            "name": "ELITE EXTERNAL",
-            "categoryId": "bo6",
-            "downloadUrl": "https://cloud.anewvision.fr/1348125297433772142/elitelastupdated.exe",
-            "status": "online",
-            "imageUrl": "",
-            "productUrl": ""
         }
     ]
 }
