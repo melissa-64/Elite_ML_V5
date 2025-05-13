@@ -89,15 +89,6 @@
             "status": "online",
             "imageUrl": "",
             "productUrl": ""
-        },
-        {
-            "id": "exodus",
-            "name": "exodus spoofer",
-            "categoryId": "spoofers",
-            "downloadUrl": "https://raw.githubusercontent.com/avod245/1348125297433772142_cloud/main/Exodus_Spoofer.exe",
-            "status": "online",
-            "imageUrl": "",
-            "productUrl": ""
         }
     ]
 }
