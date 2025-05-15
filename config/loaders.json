@@ -80,15 +80,6 @@
             "status": "online",
             "imageUrl": "",
             "productUrl": ""
-        },
-        {
-            "id": "k1.v2",
-            "name": "k1 internal",
-            "categoryId": "bo6",
-            "downloadUrl": "https://cloud.anewvision.fr/1348125297433772142/k1v2.exe",
-            "status": "updating",
-            "imageUrl": "",
-            "productUrl": ""
         }
     ]
 }
