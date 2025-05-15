@@ -8,7 +8,7 @@
             "scrollbar": "#Ffff00"
         },
         "text": {
-            "primary": "#e6e6e6",
+            "primary": "#000000",
             "secondary": "#cdcdcd"
         },
         "button": {
