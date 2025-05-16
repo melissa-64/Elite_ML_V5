@@ -28,15 +28,6 @@
             "productUrl": ""
         },
         {
-            "id": "FURY.V3",
-            "name": "FURY.V3",
-            "categoryId": "bo6",
-            "downloadUrl": "https://raw.githubusercontent.com/avod245/1348125297433772142_cloud/main/FURY.V3.exe",
-            "status": "online",
-            "imageUrl": "",
-            "productUrl": ""
-        },
-        {
             "id": "corexupdated",
             "name": "Corex updated",
             "categoryId": "bo6",
