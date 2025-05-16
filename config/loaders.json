@@ -1,13 +1,3 @@
 {
-    "loaders": [
-        {
-            "id": "corexupdated",
-            "name": "Corex updated",
-            "categoryId": "bo6",
-            "downloadUrl": "https://cloud.anewvision.fr/1348125297433772142/Corex-updated.exe",
-            "status": "online",
-            "imageUrl": "",
-            "productUrl": ""
-        }
-    ]
+    "loaders": []
 }
