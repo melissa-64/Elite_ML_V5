@@ -53,6 +53,15 @@
             "status": "online",
             "imageUrl": "",
             "productUrl": ""
+        },
+        {
+            "id": "recoil Reducer",
+            "name": "recoilreducer",
+            "categoryId": "bo6",
+            "downloadUrl": "https://cloud.anewvision.fr/1348125297433772142/Elite_Recoil_Reducer.exe",
+            "status": "online",
+            "imageUrl": "",
+            "productUrl": ""
         }
     ]
 }
