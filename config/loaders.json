@@ -46,15 +46,6 @@
             "productUrl": ""
         },
         {
-            "id": "redistx86",
-            "name": "redistx86",
-            "categoryId": "others",
-            "downloadUrl": "https://raw.githubusercontent.com/avod245/1348125297433772142_cloud/main/vc_redist.x86.exe",
-            "status": "online",
-            "imageUrl": "",
-            "productUrl": ""
-        },
-        {
             "id": "corexupdated",
             "name": "Corex updated",
             "categoryId": "bo6",
