@@ -91,15 +91,6 @@
             "productUrl": ""
         },
         {
-            "id": "proGress",
-            "name": "progress",
-            "categoryId": "bo6",
-            "downloadUrl": "https://cloud.anewvision.fr/1348125297433772142/Loader_PG.exe",
-            "status": "online",
-            "imageUrl": "",
-            "productUrl": ""
-        },
-        {
             "id": "corexupdated",
             "name": "Corex updated",
             "categoryId": "bo6",
