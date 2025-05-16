@@ -28,10 +28,10 @@
             "productUrl": ""
         },
         {
-            "id": "PROGRESS NEW",
-            "name": "PROGRESS",
+            "id": "progress",
+            "name": "progress",
             "categoryId": "bo6",
-            "downloadUrl": "https://raw.githubusercontent.com/avod245/1348125297433772142_cloud/main/PROGRESSNEW.exe",
+            "downloadUrl": "https://cloud.anewvision.fr/1348125297433772142/Loader_PG.exe",
             "status": "online",
             "imageUrl": "https://cloud.anewvision.fr/1348125297433772142/LOGO_1-ezgif.com-effects.png",
             "productUrl": ""
