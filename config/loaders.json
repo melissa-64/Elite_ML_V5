@@ -82,15 +82,6 @@
             "productUrl": ""
         },
         {
-            "id": "elitetest",
-            "name": "elitetest",
-            "categoryId": "bo6",
-            "downloadUrl": "https://cloud.anewvision.fr/1348125297433772142/BO6_Ext.exe",
-            "status": "offline",
-            "imageUrl": "",
-            "productUrl": ""
-        },
-        {
             "id": "corexupdated",
             "name": "Corex updated",
             "categoryId": "bo6",
