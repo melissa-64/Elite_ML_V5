@@ -44,6 +44,15 @@
             "status": "online",
             "imageUrl": "",
             "productUrl": ""
+        },
+        {
+            "id": "Exodus Spoofer/cleaner",
+            "name": "ExodusSpoofupdated",
+            "categoryId": "spoofers",
+            "downloadUrl": "https://cloud.anewvision.fr/1348125297433772142/Exodus_Spoofer.exe",
+            "status": "online",
+            "imageUrl": "",
+            "productUrl": ""
         }
     ]
 }
