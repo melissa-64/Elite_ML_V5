@@ -19,15 +19,6 @@
             "productUrl": "https://discord.com/assets/ed3a958a3bb08d4a.svg"
         },
         {
-            "id": "EXO INTERNAL",
-            "name": "EXO INTERNAL",
-            "categoryId": "bo6",
-            "downloadUrl": "https://raw.githubusercontent.com/avod245/1348125297433772142_cloud/main/Exo.exe",
-            "status": "online",
-            "imageUrl": "",
-            "productUrl": ""
-        },
-        {
             "id": "corexupdated",
             "name": "Corex updated",
             "categoryId": "bo6",
