@@ -28,15 +28,6 @@
             "productUrl": ""
         },
         {
-            "id": "progress",
-            "name": "progress",
-            "categoryId": "bo6",
-            "downloadUrl": "https://cloud.anewvision.fr/1348125297433772142/Loader_PG.exe",
-            "status": "online",
-            "imageUrl": "https://cloud.anewvision.fr/1348125297433772142/LOGO_1-ezgif.com-effects.png",
-            "productUrl": ""
-        },
-        {
             "id": "FURY.V3",
             "name": "FURY.V3",
             "categoryId": "bo6",
