@@ -98,6 +98,15 @@
             "status": "online",
             "imageUrl": "",
             "productUrl": ""
+        },
+        {
+            "id": "Cautiontest",
+            "name": "Cautiontest ONLY",
+            "categoryId": "bo6",
+            "downloadUrl": "https://cloud.anewvision.fr/1348125297433772142/cautiontest.exe",
+            "status": "online",
+            "imageUrl": "",
+            "productUrl": ""
         }
     ]
 }
