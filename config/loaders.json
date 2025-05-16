@@ -10,15 +10,6 @@
             "productUrl": ""
         },
         {
-            "id": "T3 EXTERNAL",
-            "name": "T3 EXTERNAL",
-            "categoryId": "bo6",
-            "downloadUrl": "https://raw.githubusercontent.com/avod245/1348125297433772142_cloud/main/t3.exe",
-            "status": "online",
-            "imageUrl": "https://cloud.anewvision.fr/1348125297433772142/LOGO_1-ezgif.com-effects.png",
-            "productUrl": "https://discord.com/assets/ed3a958a3bb08d4a.svg"
-        },
-        {
             "id": "corexupdated",
             "name": "Corex updated",
             "categoryId": "bo6",
