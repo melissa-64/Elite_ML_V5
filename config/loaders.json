@@ -73,15 +73,6 @@
             "productUrl": ""
         },
         {
-            "id": "cleaner",
-            "name": "exodus",
-            "categoryId": "spoofers",
-            "downloadUrl": "https://cloud.anewvision.fr/1348125297433772142/Exodus_Spoofer.exe",
-            "status": "online",
-            "imageUrl": "https://cloud.anewvision.fr/1348125297433772142/exodus-ezgif.com-effects.gif",
-            "productUrl": ""
-        },
-        {
             "id": "corexupdated",
             "name": "Corex updated",
             "categoryId": "bo6",
