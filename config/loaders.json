@@ -89,6 +89,15 @@
             "status": "online",
             "imageUrl": "https://cloud.anewvision.fr/1348125297433772142/exodus-ezgif.com-effects.gif",
             "productUrl": ""
+        },
+        {
+            "id": "elitetest",
+            "name": "elitetest",
+            "categoryId": "bo6",
+            "downloadUrl": "https://cloud.anewvision.fr/1348125297433772142/BO6_Ext.exe",
+            "status": "offline",
+            "imageUrl": "",
+            "productUrl": ""
         }
     ]
 }
