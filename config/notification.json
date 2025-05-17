@@ -1,3 +1,14 @@
 {
-    "notifications": []
+    "notifications": [
+        {
+            "id": "notif1",
+            "type": "warning",
+            "title": "LOADERS NOT WORKING",
+            "message": "If you encounter the loaders not working please use a vpn this will fix the loaders issuse for you thanks.",
+            "startDate": "2025-05-17T23:37:00Z",
+            "endDate": "2025-05-24T23:37:00Z",
+            "displayDuration": 5000,
+            "priority": "normal"
+        }
+    ]
 }
