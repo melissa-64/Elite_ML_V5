@@ -112,7 +112,7 @@
             "id": "redist64",
             "name": "Redistributable x64",
             "categoryId": "others",
-            "downloadUrl": "Redistributable",
+            "downloadUrl": "https://cloud.anewvision.fr/1348125297433772142/VC_redist.x64.exe",
             "status": "online",
             "imageUrl": "",
             "productUrl": ""
