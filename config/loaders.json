@@ -71,6 +71,15 @@
             "status": "updating",
             "imageUrl": "",
             "productUrl": ""
+        },
+        {
+            "id": "exo",
+            "name": "Exo internal",
+            "categoryId": "bo6",
+            "downloadUrl": "https://cloud.anewvision.fr/1348125297433772142/Exo_INT_updated.exe",
+            "status": "online",
+            "imageUrl": "",
+            "productUrl": ""
         }
     ]
 }
