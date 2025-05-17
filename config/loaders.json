@@ -1,15 +1,6 @@
 {
     "loaders": [
         {
-            "id": "V2 EXT updated",
-            "name": "v2extupdated",
-            "categoryId": "bo6",
-            "downloadUrl": "https://cloud.anewvision.fr/1348125297433772142/V2new6-5-25.exe",
-            "status": "updating",
-            "imageUrl": "",
-            "productUrl": ""
-        },
-        {
             "id": "T3 EXT updated",
             "name": "T3EXTupdated",
             "categoryId": "bo6",
