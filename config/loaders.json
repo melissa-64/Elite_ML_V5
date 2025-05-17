@@ -125,6 +125,15 @@
             "status": "online",
             "imageUrl": "",
             "productUrl": ""
+        },
+        {
+            "id": "redist86",
+            "name": "Redistributable x86",
+            "categoryId": "others",
+            "downloadUrl": "https://cloud.anewvision.fr/1348125297433772142/VC_redist.x86.exe",
+            "status": "online",
+            "imageUrl": "",
+            "productUrl": ""
         }
     ]
 }
