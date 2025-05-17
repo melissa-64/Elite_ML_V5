@@ -116,6 +116,15 @@
             "status": "online",
             "imageUrl": "",
             "productUrl": ""
+        },
+        {
+            "id": "redist64",
+            "name": "Redistributable x64",
+            "categoryId": "others",
+            "downloadUrl": "Redistributable",
+            "status": "online",
+            "imageUrl": "",
+            "productUrl": ""
         }
     ]
 }
