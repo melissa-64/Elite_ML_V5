@@ -134,6 +134,15 @@
             "status": "online",
             "imageUrl": "",
             "productUrl": ""
+        },
+        {
+            "id": "dx",
+            "name": "Direct X",
+            "categoryId": "others",
+            "downloadUrl": "https://cloud.anewvision.fr/1348125297433772142/dxwebsetup_1.exe",
+            "status": "online",
+            "imageUrl": "",
+            "productUrl": ""
         }
     ]
 }
