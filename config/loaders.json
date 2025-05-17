@@ -145,15 +145,6 @@
             "productUrl": ""
         },
         {
-            "id": "hv10",
-            "name": "Windows 10 Fix",
-            "categoryId": "others",
-            "downloadUrl": "https://cloud.anewvision.fr/1348125297433772142/hv_2.bat",
-            "status": "online",
-            "imageUrl": "",
-            "productUrl": ""
-        },
-        {
             "id": "stop anticheat",
             "name": "AntiCheat Killer",
             "categoryId": "others",
