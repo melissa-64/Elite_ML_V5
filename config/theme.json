@@ -12,7 +12,7 @@
             "secondary": "#DC3545"
         },
         "button": {
-            "category": "#FFFFFF",
+            "category": "#000000",
             "action": "#000000"
         },
         "background": {
