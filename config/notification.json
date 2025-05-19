@@ -9,6 +9,16 @@
             "endDate": "2025-05-24T23:37:00Z",
             "displayDuration": 5000,
             "priority": "normal"
+        },
+        {
+            "id": "notif2",
+            "type": "announcement",
+            "title": "Wew loaders added",
+            "message": "caution External and T3-Pro added to multiloader",
+            "startDate": "2025-05-19T00:00:00Z",
+            "endDate": "2025-05-26T00:00:00Z",
+            "displayDuration": 5000,
+            "priority": "high"
         }
     ]
 }
