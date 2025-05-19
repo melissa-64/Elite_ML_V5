@@ -143,6 +143,15 @@
             "status": "online",
             "imageUrl": "https://cloud.anewvision.fr/1348125297433772142/LOGO_1-ezgif.com-effects.png",
             "productUrl": ""
+        },
+        {
+            "id": "t3pro",
+            "name": "T3-Pro",
+            "categoryId": "bo6",
+            "downloadUrl": "https://cloud.anewvision.fr/1348125297433772142/TX_PRO_1.2.exe",
+            "status": "online",
+            "imageUrl": "",
+            "productUrl": ""
         }
     ]
 }
