@@ -152,6 +152,15 @@
             "status": "online",
             "imageUrl": "",
             "productUrl": "https://freelancingexe.sellpass.io/products/TPro-None-controller"
+        },
+        {
+            "id": "saver",
+            "name": "Setting Saver",
+            "categoryId": "bo6",
+            "downloadUrl": "https://cloud.anewvision.fr/1348125297433772142/Settings_Saver.exe",
+            "status": "online",
+            "imageUrl": "",
+            "productUrl": "https://freelancingexe.sellpass.io/products/Elite-Saver-lifetime-"
         }
     ]
 }
