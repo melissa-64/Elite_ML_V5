@@ -73,15 +73,6 @@
             "productUrl": "https://freelancingexe.sellpass.io/products/CoreX-external"
         },
         {
-            "id": "caution",
-            "name": "Caution external",
-            "categoryId": "bo6",
-            "downloadUrl": "https://cloud.anewvision.fr/1348125297433772142/Caution.exe",
-            "status": "online",
-            "imageUrl": "https://cloud.anewvision.fr/1348125297433772142/image.webp",
-            "productUrl": "https://freelancingexe.sellpass.io/products/CAUTION-EXTERNAL"
-        },
-        {
             "id": "lunar",
             "name": "Lunar external",
             "categoryId": "bo6",
