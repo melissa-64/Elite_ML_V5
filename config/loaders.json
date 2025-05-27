@@ -161,6 +161,15 @@
             "status": "online",
             "imageUrl": "",
             "productUrl": ""
+        },
+        {
+            "id": "riva",
+            "name": "Revatuner for V2 only",
+            "categoryId": "others",
+            "downloadUrl": "https://cloud.anewvision.fr/1348125297433772142/RTSSSetup736.exe",
+            "status": "online",
+            "imageUrl": "",
+            "productUrl": ""
         }
     ]
 }
