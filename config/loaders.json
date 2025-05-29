@@ -64,15 +64,6 @@
             "productUrl": "https://freelancingexe.sellpass.io/products/Exo-"
         },
         {
-            "id": "corex",
-            "name": "CoreX external",
-            "categoryId": "bo6",
-            "downloadUrl": "https://cloud.anewvision.fr/1348125297433772142/iyk.exe",
-            "status": "online",
-            "imageUrl": "https://cloud.anewvision.fr/1348125297433772142/LOGO_1-ezgif.com-effects.png",
-            "productUrl": "https://freelancingexe.sellpass.io/products/CoreX-external"
-        },
-        {
             "id": "bubble",
             "name": "Bubble ESP",
             "categoryId": "bo6",
