@@ -26,15 +26,6 @@
             "status": "online",
             "imageUrl": "https://cloud.anewvision.fr/1348125297433772142/LOGO_1-ezgif.com-effects.png",
             "productUrl": ""
-        },
-        {
-            "id": "lunarx",
-            "name": "Lunar External",
-            "categoryId": "bo6",
-            "downloadUrl": "https://cloud.anewvision.fr/1348125297433772142/lunarnew.exe",
-            "status": "offline",
-            "imageUrl": "",
-            "productUrl": ""
         }
     ]
 }
