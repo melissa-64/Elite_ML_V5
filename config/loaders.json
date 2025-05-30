@@ -28,15 +28,6 @@
             "productUrl": ""
         },
         {
-            "id": "t3pro",
-            "name": "T3-Pro",
-            "categoryId": "bo6",
-            "downloadUrl": "https://cloud.anewvision.fr/1348125297433772142/TX_PRO_1.2.exe",
-            "status": "updating",
-            "imageUrl": "",
-            "productUrl": "https://freelancingexe.sellpass.io/products/TPro-None-controller"
-        },
-        {
             "id": "saver",
             "name": "Setting Saver",
             "categoryId": "bo6",
