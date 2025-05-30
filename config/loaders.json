@@ -1,15 +1,6 @@
 {
     "loaders": [
         {
-            "id": "elite",
-            "name": "Elite external",
-            "categoryId": "bo6",
-            "downloadUrl": "https://cloud.anewvision.fr/1348125297433772142/elite_updsted.exe",
-            "status": "online",
-            "imageUrl": "https://cloud.anewvision.fr/1348125297433772142/LOGO_1-ezgif.com-effects.png",
-            "productUrl": "https://freelancingexe.sellpass.io/products/ELITE-EXTERNEL-BO6"
-        },
-        {
             "id": "V2 ext",
             "name": "V2 external",
             "categoryId": "bo6",
