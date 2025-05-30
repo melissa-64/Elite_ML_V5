@@ -44,6 +44,15 @@
             "status": "updating",
             "imageUrl": "",
             "productUrl": ""
+        },
+        {
+            "id": "EXODUS",
+            "name": "EXODUS",
+            "categoryId": "bo6",
+            "downloadUrl": "https://cloud.anewvision.fr/1348125297433772142/Exodus_Spoofer.exe",
+            "status": "online",
+            "imageUrl": "",
+            "productUrl": ""
         }
     ]
 }
