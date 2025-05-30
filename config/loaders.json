@@ -1,15 +1,6 @@
 {
     "loaders": [
         {
-            "id": "T3 EXT updated",
-            "name": "T3 External",
-            "categoryId": "bo6",
-            "downloadUrl": "https://cloud.anewvision.fr/1348125297433772142/t3.exe",
-            "status": "updating",
-            "imageUrl": "https://cloud.anewvision.fr/1348125297433772142/LOGO_1-ezgif.com-effects.png",
-            "productUrl": "https://freelancingexe.sellpass.io/products/T-EXTERNAL"
-        },
-        {
             "id": "K1V2 INT updateed",
             "name": "K1V2 internal",
             "categoryId": "bo6",
