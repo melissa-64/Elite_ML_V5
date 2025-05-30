@@ -28,15 +28,6 @@
             "productUrl": ""
         },
         {
-            "id": "caution",
-            "name": "Caution External",
-            "categoryId": "bo6",
-            "downloadUrl": "https://cloud.anewvision.fr/1348125297433772142/Caution.exe",
-            "status": "updating",
-            "imageUrl": "",
-            "productUrl": ""
-        },
-        {
             "id": "riva",
             "name": "Revatuner for V2 only",
             "categoryId": "others",
