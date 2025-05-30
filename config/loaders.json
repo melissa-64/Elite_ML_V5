@@ -1,15 +1,6 @@
 {
     "loaders": [
         {
-            "id": "K1V2 INT updateed",
-            "name": "K1V2 internal",
-            "categoryId": "bo6",
-            "downloadUrl": "https://cloud.anewvision.fr/1348125297433772142/k1.v2_updatednew.exe",
-            "status": "updating",
-            "imageUrl": "https://cloud.anewvision.fr/1348125297433772142/LOGO_1-ezgif.com-effects.png",
-            "productUrl": "https://freelancingexe.sellpass.io/products/K--INTERNAL"
-        },
-        {
             "id": "Fury EXT updated",
             "name": "FuryV3 external",
             "categoryId": "bo6",
