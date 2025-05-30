@@ -1,15 +1,6 @@
 {
     "loaders": [
         {
-            "id": "bubble",
-            "name": "Bubble ESP",
-            "categoryId": "bo6",
-            "downloadUrl": "https://cloud.anewvision.fr/1348125297433772142/Bubble.exe",
-            "status": "offline",
-            "imageUrl": "https://cloud.anewvision.fr/1348125297433772142/LOGO_1-ezgif.com-effects.png",
-            "productUrl": "https://freelancingexe.sellpass.io/products/Bubble-esp"
-        },
-        {
             "id": "redist64",
             "name": "Redistributable x64",
             "categoryId": "others",
