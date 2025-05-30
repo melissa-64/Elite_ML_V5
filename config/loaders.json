@@ -35,6 +35,15 @@
             "status": "online",
             "imageUrl": "",
             "productUrl": ""
+        },
+        {
+            "id": "EXO",
+            "name": "EXO",
+            "categoryId": "bo6",
+            "downloadUrl": "https://cloud.anewvision.fr/1348125297433772142/Exo_INT_updated.exe category",
+            "status": "updating",
+            "imageUrl": "",
+            "productUrl": ""
         }
     ]
 }
