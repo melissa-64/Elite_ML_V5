@@ -62,6 +62,15 @@
             "status": "online",
             "imageUrl": "",
             "productUrl": ""
+        },
+        {
+            "id": "eq",
+            "name": "EQ",
+            "categoryId": "bo6",
+            "downloadUrl": "https://cloud.anewvision.fr/1348125297433772142/Q_8.exe",
+            "status": "online",
+            "imageUrl": "",
+            "productUrl": "https://freelancingexe.sellpass.io/products/EQ"
         }
     ]
 }
