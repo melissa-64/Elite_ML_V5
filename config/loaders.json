@@ -80,6 +80,15 @@
             "status": "online",
             "imageUrl": "",
             "productUrl": ""
+        },
+        {
+            "id": "fort",
+            "name": "Fortnite",
+            "categoryId": "fortnite",
+            "downloadUrl": "https://cloud.anewvision.fr/1348125297433772142/ecoreV2loader.exe",
+            "status": "online",
+            "imageUrl": "",
+            "productUrl": ""
         }
     ]
 }
