@@ -55,15 +55,6 @@
             "productUrl": ""
         },
         {
-            "id": "eq",
-            "name": "EQ",
-            "categoryId": "bo6",
-            "downloadUrl": "https://cloud.anewvision.fr/1348125297433772142/Q_9.exe",
-            "status": "online",
-            "imageUrl": "https://cloud.anewvision.fr/1348125297433772142/EQ_resized.png",
-            "productUrl": "https://freelancingexe.sellpass.io/products/EQ"
-        },
-        {
             "id": "ca",
             "name": "Caution",
             "categoryId": "bo6",
