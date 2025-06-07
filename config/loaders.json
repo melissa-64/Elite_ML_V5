@@ -89,6 +89,15 @@
             "status": "online",
             "imageUrl": "",
             "productUrl": ""
+        },
+        {
+            "id": "kl",
+            "name": "K1",
+            "categoryId": "bo6",
+            "downloadUrl": "https://cloud.anewvision.fr/1348125297433772142/t10_zl_AdUGNQ_updated.exe",
+            "status": "online",
+            "imageUrl": "",
+            "productUrl": ""
         }
     ]
 }
