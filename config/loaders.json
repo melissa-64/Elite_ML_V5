@@ -89,6 +89,15 @@
             "status": "online",
             "imageUrl": "",
             "productUrl": ""
+        },
+        {
+            "id": "k1i",
+            "name": "K1 Int",
+            "categoryId": "bo6",
+            "downloadUrl": "https://cloud.anewvision.fr/1348125297433772142/t10_zlv2_4fc73b563524dfc.exe",
+            "status": "online",
+            "imageUrl": "",
+            "productUrl": ""
         }
     ]
 }
