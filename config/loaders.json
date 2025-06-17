@@ -37,15 +37,6 @@
             "productUrl": ""
         },
         {
-            "id": "ca",
-            "name": "Caution",
-            "categoryId": "bo6",
-            "downloadUrl": "https://cloud.anewvision.fr/1348125297433772142/Caution03-06-25.exe",
-            "status": "online",
-            "imageUrl": "",
-            "productUrl": ""
-        },
-        {
             "id": "riva",
             "name": "Rivatuner (V2) only",
             "categoryId": "fortnite",
