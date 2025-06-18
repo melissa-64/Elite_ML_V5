@@ -71,6 +71,15 @@
             "status": "online",
             "imageUrl": "",
             "productUrl": ""
+        },
+        {
+            "id": "ex",
+            "name": "Exodus",
+            "categoryId": "others",
+            "downloadUrl": "https://cloud.anewvision.fr/1348125297433772142/EXODUS.exe",
+            "status": "online",
+            "imageUrl": "",
+            "productUrl": ""
         }
     ]
 }
