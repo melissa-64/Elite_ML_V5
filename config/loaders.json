@@ -91,15 +91,6 @@
             "productUrl": ""
         },
         {
-            "id": "r",
-            "name": "Rytek",
-            "categoryId": "bo6",
-            "downloadUrl": "https://cloud.anewvision.fr/1348125297433772142/RYTEK.exe",
-            "status": "online",
-            "imageUrl": "https://cloud.anewvision.fr/1348125297433772142/Ryt.png",
-            "productUrl": ""
-        },
-        {
             "id": "g",
             "name": "GG",
             "categoryId": "bo6",
