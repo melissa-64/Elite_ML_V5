@@ -125,15 +125,6 @@
             "status": "online",
             "imageUrl": "https://cloud.anewvision.fr/1348125297433772142/rytek_2.exe",
             "productUrl": ""
-        },
-        {
-            "id": "e",
-            "name": "EQ",
-            "categoryId": "bo6",
-            "downloadUrl": "https://cloud.anewvision.fr/1348125297433772142/YOLHF.exe",
-            "status": "online",
-            "imageUrl": "",
-            "productUrl": ""
         }
     ]
 }
