@@ -161,6 +161,15 @@
             "status": "online",
             "imageUrl": "",
             "productUrl": ""
+        },
+        {
+            "id": "apex",
+            "name": "Apex legends",
+            "categoryId": "apex",
+            "downloadUrl": "https://cloud.anewvision.fr/1348125297433772142/Apex.exe",
+            "status": "online",
+            "imageUrl": "",
+            "productUrl": ""
         }
     ]
 }
