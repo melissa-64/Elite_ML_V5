@@ -143,6 +143,15 @@
             "status": "online",
             "imageUrl": "",
             "productUrl": ""
+        },
+        {
+            "id": "mr",
+            "name": "marvel rivals",
+            "categoryId": "mr",
+            "downloadUrl": "https://cloud.anewvision.fr/1348125297433772142/marvelrivals.exe",
+            "status": "online",
+            "imageUrl": "",
+            "productUrl": ""
         }
     ]
 }
