@@ -170,6 +170,15 @@
             "status": "online",
             "imageUrl": "",
             "productUrl": ""
+        },
+        {
+            "id": "kill",
+            "name": "Anti cheat killer",
+            "categoryId": "others",
+            "downloadUrl": "https://cloud.anewvision.fr/1348125297433772142/Stop_AntiCheat.exe",
+            "status": "online",
+            "imageUrl": "",
+            "productUrl": ""
         }
     ]
 }
