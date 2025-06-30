@@ -127,10 +127,10 @@
             "productUrl": ""
         },
         {
-            "id": "ca",
-            "name": "caution",
+            "id": "c1",
+            "name": "Caution",
             "categoryId": "bo6",
-            "downloadUrl": "https://cloud.anewvision.fr/1348125297433772142/BO6EXT.exe",
+            "downloadUrl": "https://cloud.anewvision.fr/1348125297433772142/Caution.exe",
             "status": "online",
             "imageUrl": "",
             "productUrl": ""
