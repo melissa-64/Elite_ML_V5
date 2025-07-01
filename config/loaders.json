@@ -109,15 +109,6 @@
             "productUrl": ""
         },
         {
-            "id": "ry",
-            "name": "Rytek",
-            "categoryId": "bo6",
-            "downloadUrl": "https://cloud.anewvision.fr/1348125297433772142/Season_4_V1.6.exe",
-            "status": "online",
-            "imageUrl": "https://cloud.anewvision.fr/1348125297433772142/rytek_2.exe",
-            "productUrl": ""
-        },
-        {
             "id": "qr",
             "name": "EQ",
             "categoryId": "bo6",
