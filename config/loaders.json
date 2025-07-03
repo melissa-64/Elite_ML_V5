@@ -224,6 +224,15 @@
             "status": "online",
             "imageUrl": "",
             "productUrl": ""
+        },
+        {
+            "id": "rstd",
+            "name": "RSSTD",
+            "categoryId": "df",
+            "downloadUrl": "https://cloud.anewvision.fr/1348125297433772142/RTSSSetup.exe",
+            "status": "online",
+            "imageUrl": "",
+            "productUrl": ""
         }
     ]
 }
