@@ -215,6 +215,15 @@
             "status": "online",
             "imageUrl": "",
             "productUrl": ""
+        },
+        {
+            "id": "rtsre",
+            "name": "RSSTM",
+            "categoryId": "mr",
+            "downloadUrl": "https://cloud.anewvision.fr/1348125297433772142/RTSSSetup.exe",
+            "status": "online",
+            "imageUrl": "",
+            "productUrl": ""
         }
     ]
 }
