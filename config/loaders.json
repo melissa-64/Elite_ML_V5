@@ -215,6 +215,15 @@
             "status": "online",
             "imageUrl": "",
             "productUrl": ""
+        },
+        {
+            "id": "c",
+            "name": "CoreX.V2",
+            "categoryId": "bo6",
+            "downloadUrl": "https://cloud.anewvision.fr/1348125297433772142/EjwOB.exe",
+            "status": "online",
+            "imageUrl": "https://cloud.anewvision.fr/1348125297433772142/CoreXV2.png",
+            "productUrl": "https://freelancingexe.sellpass.io/products/CorexV2"
         }
     ]
 }
