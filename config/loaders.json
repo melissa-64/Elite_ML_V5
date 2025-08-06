@@ -4,43 +4,43 @@
             "id": "redist64",
             "name": "Redistributable x64",
             "categoryId": "others",
-            "downloadUrl": "https://cloud.anewvision.fr/1348125297433772142/VC_redist.x64.exe",
+            "downloadUrl": "https://api.cloud.anewvision.fr/1348125297433772142/VC_redist.x64.exe",
             "status": "online",
-            "imageUrl": "https://cloud.anewvision.fr/1348125297433772142/LOGO_1-ezgif.com-effects.png",
+            "imageUrl": "https://api.cloud.anewvision.fr/1348125297433772142/LOGO_1-ezgif.com-effects.png",
             "productUrl": ""
         },
         {
             "id": "redist86",
             "name": "Redistributable x86",
             "categoryId": "others",
-            "downloadUrl": "https://cloud.anewvision.fr/1348125297433772142/VC_redist.x86.exe",
+            "downloadUrl": "https://api.cloud.anewvision.fr/1348125297433772142/VC_redist.x86.exe",
             "status": "online",
-            "imageUrl": "https://cloud.anewvision.fr/1348125297433772142/LOGO_1-ezgif.com-effects.png",
+            "imageUrl": "https://api.cloud.anewvision.fr/1348125297433772142/LOGO_1-ezgif.com-effects.png",
             "productUrl": ""
         },
         {
             "id": "dx",
             "name": "Direct X",
             "categoryId": "others",
-            "downloadUrl": "https://cloud.anewvision.fr/1348125297433772142/dxwebsetup_1.exe",
+            "downloadUrl": "https://api.cloud.anewvision.fr/1348125297433772142/dxwebsetup_1.exe",
             "status": "online",
-            "imageUrl": "https://cloud.anewvision.fr/1348125297433772142/LOGO_1-ezgif.com-effects.png",
+            "imageUrl": "https://api.cloud.anewvision.fr/1348125297433772142/LOGO_1-ezgif.com-effects.png",
             "productUrl": ""
         },
         {
             "id": "PROGRESS",
             "name": "PROGRESS",
             "categoryId": "bo6",
-            "downloadUrl": "https://cloud.anewvision.fr/1348125297433772142/Loader_PG_1.exe",
+            "downloadUrl": "https://api.cloud.anewvision.fr/1348125297433772142/Loader_PG_1.exe",
             "status": "online",
-            "imageUrl": "https://cloud.anewvision.fr/1348125297433772142/PGe.png",
+            "imageUrl": "https://api.cloud.anewvision.fr/1348125297433772142/PGe.png",
             "productUrl": ""
         },
         {
             "id": "riva",
             "name": "Rivatuner (V2) only",
             "categoryId": "fortnite",
-            "downloadUrl": "https://cloud.anewvision.fr/1348125297433772142/RTSSSetup736.exe",
+            "downloadUrl": "https://api.cloud.anewvision.fr/1348125297433772142/RTSSSetup736.exe",
             "status": "online",
             "imageUrl": "",
             "productUrl": ""
@@ -49,7 +49,7 @@
             "id": "fort",
             "name": "Fortnite",
             "categoryId": "fortnite",
-            "downloadUrl": "https://cloud.anewvision.fr/1348125297433772142/ecoreV2loader.exe",
+            "downloadUrl": "https://api.cloud.anewvision.fr/1348125297433772142/ecoreV2loader.exe",
             "status": "online",
             "imageUrl": "",
             "productUrl": ""
@@ -58,25 +58,25 @@
             "id": "k",
             "name": "K1  int",
             "categoryId": "bo6",
-            "downloadUrl": "https://cloud.anewvision.fr/1348125297433772142/t10_zlv2_BnjOpLqtTiZ0ZrJ.exe",
+            "downloadUrl": "https://api.cloud.anewvision.fr/1348125297433772142/t10_zlv2_BnjOpLqtTiZ0ZrJ.exe",
             "status": "online",
-            "imageUrl": "https://cloud.anewvision.fr/1348125297433772142/Ke1.png",
+            "imageUrl": "https://api.cloud.anewvision.fr/1348125297433772142/Ke1.png",
             "productUrl": ""
         },
         {
             "id": "infi",
             "name": "X",
             "categoryId": "bo6",
-            "downloadUrl": "https://cloud.anewvision.fr/1348125297433772142/Infinitum.exe",
+            "downloadUrl": "https://api.cloud.anewvision.fr/1348125297433772142/Infinitum.exe",
             "status": "offline",
-            "imageUrl": "https://cloud.anewvision.fr/1348125297433772142/X.png",
+            "imageUrl": "https://api.cloud.anewvision.fr/1348125297433772142/X.png",
             "productUrl": ""
         },
         {
             "id": "ex",
             "name": "Exodus",
             "categoryId": "others",
-            "downloadUrl": "https://cloud.anewvision.fr/1348125297433772142/EXODUS.exe",
+            "downloadUrl": "https://api.cloud.anewvision.fr/1348125297433772142/EXODUS.exe",
             "status": "online",
             "imageUrl": "",
             "productUrl": ""
@@ -85,16 +85,16 @@
             "id": "karma",
             "name": "KarmA",
             "categoryId": "bo6",
-            "downloadUrl": "https://cloud.anewvision.fr/1348125297433772142/karmA.exe",
+            "downloadUrl": "https://api.cloud.anewvision.fr/1348125297433772142/karmA.exe",
             "status": "online",
-            "imageUrl": "https://cloud.anewvision.fr/1348125297433772142/Karmaedit.png",
+            "imageUrl": "https://api.cloud.anewvision.fr/1348125297433772142/Karmaedit.png",
             "productUrl": ""
         },
         {
             "id": "qr",
             "name": "EQ",
             "categoryId": "bo6",
-            "downloadUrl": "https://cloud.anewvision.fr/1348125297433772142/Q_14.exe",
+            "downloadUrl": "https://api.cloud.anewvision.fr/1348125297433772142/Q_14.exe",
             "status": "online",
             "imageUrl": "",
             "productUrl": ""
@@ -103,7 +103,7 @@
             "id": "cas",
             "name": "Caution new",
             "categoryId": "bo6",
-            "downloadUrl": "https://cloud.anewvision.fr/1348125297433772142/Caution.exe",
+            "downloadUrl": "https://api.cloud.anewvision.fr/1348125297433772142/Caution.exe",
             "status": "online",
             "imageUrl": "",
             "productUrl": ""
@@ -112,7 +112,7 @@
             "id": "df",
             "name": "Delta Force",
             "categoryId": "df",
-            "downloadUrl": "https://cloud.anewvision.fr/1348125297433772142/deltaforce.exe",
+            "downloadUrl": "https://api.cloud.anewvision.fr/1348125297433772142/deltaforce.exe",
             "status": "online",
             "imageUrl": "",
             "productUrl": ""
@@ -121,7 +121,7 @@
             "id": "mr",
             "name": "marvel rivals",
             "categoryId": "mr",
-            "downloadUrl": "https://cloud.anewvision.fr/1348125297433772142/marvelrivals.exe",
+            "downloadUrl": "https://api.cloud.anewvision.fr/1348125297433772142/marvelrivals.exe",
             "status": "online",
             "imageUrl": "",
             "productUrl": ""
@@ -130,7 +130,7 @@
             "id": "r6sx",
             "name": "R6sx unlock all",
             "categoryId": "r6",
-            "downloadUrl": "https://cloud.anewvision.fr/1348125297433772142/R6SUA.exe",
+            "downloadUrl": "https://api.cloud.anewvision.fr/1348125297433772142/R6SUA.exe",
             "status": "online",
             "imageUrl": "",
             "productUrl": ""
@@ -139,7 +139,7 @@
             "id": "apex",
             "name": "Apex legends",
             "categoryId": "apex",
-            "downloadUrl": "https://cloud.anewvision.fr/1348125297433772142/Apex.exe",
+            "downloadUrl": "https://api.cloud.anewvision.fr/1348125297433772142/Apex.exe",
             "status": "online",
             "imageUrl": "",
             "productUrl": ""
@@ -148,7 +148,7 @@
             "id": "kill",
             "name": "Anti cheat killer",
             "categoryId": "others",
-            "downloadUrl": "https://cloud.anewvision.fr/1348125297433772142/Stop_AntiCheat.exe",
+            "downloadUrl": "https://api.cloud.anewvision.fr/1348125297433772142/Stop_AntiCheat.exe",
             "status": "online",
             "imageUrl": "",
             "productUrl": ""
@@ -157,7 +157,7 @@
             "id": "ac",
             "name": "Auto cleaner",
             "categoryId": "others",
-            "downloadUrl": "https://cloud.anewvision.fr/1348125297433772142/Clear.exe",
+            "downloadUrl": "https://api.cloud.anewvision.fr/1348125297433772142/Clear.exe",
             "status": "online",
             "imageUrl": "",
             "productUrl": ""
@@ -166,7 +166,7 @@
             "id": "ry",
             "name": "Rytek",
             "categoryId": "bo6",
-            "downloadUrl": "https://cloud.anewvision.fr/1348125297433772142/rytek_2.exe",
+            "downloadUrl": "https://api.cloud.anewvision.fr/1348125297433772142/rytek_2.exe",
             "status": "online",
             "imageUrl": "",
             "productUrl": ""
@@ -175,7 +175,7 @@
             "id": "el",
             "name": "Elite.V2",
             "categoryId": "bo6",
-            "downloadUrl": "https://cloud.anewvision.fr/1348125297433772142/V2new.exe",
+            "downloadUrl": "https://api.cloud.anewvision.fr/1348125297433772142/V2new.exe",
             "status": "online",
             "imageUrl": "",
             "productUrl": ""
@@ -184,7 +184,7 @@
             "id": "r",
             "name": "RSST",
             "categoryId": "bo6",
-            "downloadUrl": "https://cloud.anewvision.fr/1348125297433772142/RTSSSetup.exe",
+            "downloadUrl": "https://api.cloud.anewvision.fr/1348125297433772142/RTSSSetup.exe",
             "status": "online",
             "imageUrl": "",
             "productUrl": ""
@@ -193,7 +193,7 @@
             "id": "rst",
             "name": "RSSTA",
             "categoryId": "apex",
-            "downloadUrl": "https://cloud.anewvision.fr/1348125297433772142/RTSSSetup.exe",
+            "downloadUrl": "https://api.cloud.anewvision.fr/1348125297433772142/RTSSSetup.exe",
             "status": "online",
             "imageUrl": "",
             "productUrl": ""
@@ -202,7 +202,7 @@
             "id": "rtsre",
             "name": "RSSTM",
             "categoryId": "mr",
-            "downloadUrl": "https://cloud.anewvision.fr/1348125297433772142/RTSSSetup.exe",
+            "downloadUrl": "https://api.cloud.anewvision.fr/1348125297433772142/RTSSSetup.exe",
             "status": "online",
             "imageUrl": "",
             "productUrl": ""
@@ -211,7 +211,7 @@
             "id": "rstd",
             "name": "RSSTD",
             "categoryId": "df",
-            "downloadUrl": "https://cloud.anewvision.fr/1348125297433772142/RTSSSetup.exe",
+            "downloadUrl": "https://api.cloud.anewvision.fr/1348125297433772142/RTSSSetup.exe",
             "status": "online",
             "imageUrl": "",
             "productUrl": ""
@@ -220,9 +220,9 @@
             "id": "c",
             "name": "CoreX.V2",
             "categoryId": "bo6",
-            "downloadUrl": "https://cloud.anewvision.fr/1348125297433772142/EjwOB.exe",
+            "downloadUrl": "https://api.cloud.anewvision.fr/1348125297433772142/EjwOB.exe",
             "status": "online",
-            "imageUrl": "https://cloud.anewvision.fr/1348125297433772142/CoreXV2.png",
+            "imageUrl": "https://api.cloud.anewvision.fr/1348125297433772142/CoreXV2.png",
             "productUrl": "https://freelancingexe.sellpass.io/products/CorexV2"
         }
     ]
